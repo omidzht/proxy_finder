@@ -9,10 +9,12 @@ termux-setup-storage
 
 put your ip.txt & proxy_finder.py in Download folder of your storage & 
 run: type below code on termux:
+
 👇
 cd /sdcard/Download
 python proxy_finder.py
 👆
+
 if u want to change parameters:
 nano proxy_finder.py
 
