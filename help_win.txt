@@ -1,0 +1,28 @@
+install python from Microsoft Store
+python3 --version
+pip3 --version
+
+ساخت محیط مجازی تا تداخل در پکیج های سیستمی ایجاد نشه:
+
+ساخت
+cd E:\python_venv\
+
+python -m venv aioenv
+
+فعال سازی محیط مجازی
+.\aioenv\Scripts\Activate.ps1
+ 
+نصب
+pip install aiohttp aiohttp_socks psutil ipaddress
+_______________________________________________________________
+
+مراحل برای اجرا
+
+ابتدا فعال سازی محیط مجازی که براش این پروژه ساختید
+E:\python_venv\aioenv\Scripts\Activate.ps1
+
+حال مسیر دهی به فایل پایتون
+cd D:\Setups\internet\Net` Meli\proxy_finder\
+
+اجرای نهایی
+python proxy_finder_win.py
