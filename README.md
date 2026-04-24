@@ -27,5 +27,5 @@ http ones could be socks! try yorself!
 
 it supports recognizing cidr ips /24 /16 ... 
 
-credit: AvernuS @omidzht
+credit: AvernuS (telegram id: @omidzht)
 logic by me (help of chatgpt)
