@@ -1,3 +1,4 @@
+termux:
 pre-requirements:
 pkg update && pkg upgrade
 pkg install python
